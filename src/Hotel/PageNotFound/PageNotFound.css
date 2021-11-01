@@ -1,0 +1,9 @@
+.page_not_found_area{
+    height: 100vh;
+    background-image: url(https://i.ibb.co/VCWCLdP/Pu-Xip-AW3-AXUz-UJ4u-Yyx-PKC-1200-80.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

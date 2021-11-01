@@ -1,0 +1,31 @@
+.package_card{
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s;
+}
+.card_img{
+    padding: 20px;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+.card_img img{
+    /* border-radius: 15px; */
+}
+.package_card:hover .card_img{
+    transform: scale(1.2);
+    overflow: hidden;
+}
+.package_card:hover{
+    background: #fc5b62;
+    border-radius: 15px;
+    border: none;
+}
+.package_card:hover .btn_regular{
+    background: #212529;
+}
+.btn_regular:hover{
+    background: #ffffff !important;
+}
+.package_card:hover .card-body{
+    color: #ffffff !important;
+}

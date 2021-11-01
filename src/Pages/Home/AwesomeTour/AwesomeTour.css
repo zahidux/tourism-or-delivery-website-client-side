@@ -1,0 +1,16 @@
+.awesome_tour_area{
+    background:  #f3f3f3;
+}
+.awesome_content{
+    margin-left: 20px;
+}
+.awesome_content h1{
+    text-transform: uppercase;
+    font-size: 50px;
+}
+.awesome_content h5{
+    margin: 20px 0;
+}
+.awesome_tour_area .col-lg-6{
+    padding: 0;
+}

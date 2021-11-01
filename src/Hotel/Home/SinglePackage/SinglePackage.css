@@ -1,0 +1,30 @@
+.package_card{
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s;
+    border: 1px solid #fc5b62;
+}
+.card_img{
+    padding: 20px;
+    overflow: hidden;
+    transition: all 0.5s;
+}
+.package_card:hover .card_img{
+    transform: scale(1.25);
+    overflow: hidden;
+}
+.card-body{
+    transition: .5s;
+}
+.package_card:hover .card-body{
+    background: #fc5b62;
+}
+.package_card:hover .btn_regular{
+    background: #212529;
+}
+.btn_regular:hover{
+    background: #ffffff !important;
+}
+.package_card:hover .card-body{
+    color: #ffffff !important;
+}

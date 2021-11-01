@@ -1,0 +1,22 @@
+.footer_area{
+    background: #211E3B;
+    padding-top: 70px;
+}
+
+.footer_single{
+    color: #ffffff;
+}
+.footer_single ul li a{
+    text-decoration: none;
+    color: #ffffff;
+}
+hr{
+    background: #fc5b62;
+    height: 2px;
+}
+.copyright_area p{
+    color: #ffffff;
+    text-align: center;
+    margin: 0;
+    padding: 30px 0 40px;
+}

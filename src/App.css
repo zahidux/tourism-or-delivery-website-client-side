@@ -1,7 +1,14 @@
-.App {
-  text-align: center;
+.btn_regular{
+  background: #a2ec8b;
+  font-weight: 600;
+  padding: 10px 20px;
+  border: 1px solid #000000;
 }
-
+.btn_regular:hover{
+  background: #f84b9c;
+  border: 1px solid #fffeff;
+  color: #000000;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;

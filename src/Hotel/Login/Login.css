@@ -1,0 +1,20 @@
+.login_container{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.google_login{
+    border: 1px solid rgb(88, 87, 87);
+    border-radius: 30px;
+    cursor: pointer;
+    padding: 5px 20px;
+}
+.google_login:hover{
+    border: 1px solid #fc5b62;
+}
+
+.google_login img{
+    width: 80px;
+}

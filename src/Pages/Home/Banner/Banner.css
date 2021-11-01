@@ -1,0 +1,23 @@
+.banner_area{
+    background-image: url(https://wallpaperaccess.com/full/6688193.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner_content h1{
+    color: #ffffff;
+    font-size: 50px;
+    font-weight: 700;
+}
+.banner_content h1 span{
+    color: #f3afb2;
+    font-size: 70px;
+}
+.banner_content p{
+    color: #ffffff;
+    font-size: 20px;
+    margin: 20px 0 30px;
+}

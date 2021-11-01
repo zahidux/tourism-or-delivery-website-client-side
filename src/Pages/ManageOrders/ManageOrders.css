@@ -1,0 +1,11 @@
+@media screen and (max-width: 480px) {
+    .manage_my_order{
+        display: block !important;
+    }
+    .manage_my_order .order_img{
+        text-align: center;
+    }
+    .manage_my_order .order_img img{
+        width: 100% !important;
+    }
+  }

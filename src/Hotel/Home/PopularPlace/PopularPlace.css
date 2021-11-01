@@ -1,0 +1,41 @@
+.popular_area{
+    padding-bottom: 70px;
+}
+.popular_place_head{
+    text-align: center;
+    padding: 100px 0 70px;
+}
+.popular_place_head h5{
+    color: #fc5b62;
+    margin-bottom: 20px;
+}
+
+.popular_area .card-body{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fc5b62;
+    color: #ffffff;
+}
+.popular_area .card-text{
+    font-size: 11px;
+    color: #FFD700;
+}
+.popular_area .card-title{
+    margin-bottom: 0;
+}
+
+.popular_area .card-img-top{
+    position: relative;
+}
+.popular_area .btn_regular{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: all .5s;
+}
+.popular_card:hover .btn_regular{
+    opacity: 1;
+}

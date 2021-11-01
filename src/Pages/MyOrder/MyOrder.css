@@ -1,0 +1,24 @@
+.my_order{
+    display: flex;
+    border: 1px solid #fc5b62;
+    margin: 10px 0;
+}
+.my_order .order_img img{
+    width: 204px;
+}
+
+.order_content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 10px;
+}
+.handle_btn{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    justify-content: center;
+}
+.handle_btn button{
+    margin: 5px;
+}

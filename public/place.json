@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Hotels",
+        "description": "A hotel manager, hotelier, or lodging manager is a person who manages the operation of a hotel, motel, resort, or other lodging-related establishment.",
+        "price": 5654,
+        "img": "https://i.ibb.co/vP3XvLx/Photo-of-a-hotel-entrance-and-a-waiting-taxi-cab-in-downtown-Cleveland-during-the-winter-holidays.jpg"
+    },
+    {
+        "name": "Lakeshore Banani",
+        "description": "Booking.com is a Dutch online travel agency for lodging reservations & other travel products, and a subsidiary of Booking Holdings and Easy Booking. Price Comparison.",
+        "price": 6877,
+        "img": "https://i.ibb.co/QktsJM9/photo-1520250497591-112f2f40a3f4-ixid-Mnwx-Mj-A3f-DB8-MHxz-ZWFy-Y2h8-Mj-N8f-Ghvd-GVsf-GVuf-DB8f-DB8f.jpg"
+    },
+    {
+        "name": "Six Seasons Hotel",
+        "description": "Stop Posting Pictures of Your Cat. Start Posting Pictures of Your Getaway! Great Deals to Send Your Loved Ones Somewhere Nice and Close or Far.",
+        "price": 8909,
+        "img": "https://i.ibb.co/vHt6NdS/photo-1586611292717-f828b167408c-ixid-Mnwx-Mj-A3f-DB8-MHxz-ZWFy-Y2h8-Mz-J8f-Ghvd-GVsf-GVuf-DB8f-DB8f.jpg"
+    },
+    {
+        "name": "HOTEL THE CAPITAL LTD.",
+        "description": "Big savings on hotels in 120000 destinations worldwide. Browse hotel reviews and find the guaranteed best price on hotels for all budgets.",
+        "price": 9756,
+        "img": "https://i.ibb.co/t2mmz3L/photo-1618773928121-c32242e63f39-ixid-Mnwx-Mj-A3f-DB8-MHxz-ZWFy-Y2h8-MTd8f-Ghvd-GVsf-GVuf-DB8f-DB8f.jpg"
+    },
+    {
+        "name": "InterContinental an IHG Hotel",
+        "description": "Online hotel reservations are a popular method for booking hotel rooms. Travellers can book rooms on a computer by using online security.",
+        "price": 3468,
+        "img": "https://i.ibb.co/0K3FJfR/photo-1590073242678-70ee3fc28e8e-ixid-Mnwx-Mj-A3f-DF8-MHxz-ZWFy-Y2h8-OHx8a-G90-ZWx8-ZW58-MHx8-MHx8-i.jpg"
+    },
+    {
+        "name": "Innotel Luxury Hotel",
+        "description": "Find and Compare Great Hotel Deals. Book with Confidence on KAYAK®! Create a Hotel Price Alert and Monitor Hotel Deals for Specific Travel Dates.",
+        "price": 5786,
+        "img": "https://i.ibb.co/vk5BPL2/photo-1445019980597-93fa8acb246c-ixid-Mnwx-Mj-A3f-DB8-MHxz-ZWFy-Y2h8-MTN8f-Ghvd-GVsf-GVuf-DB8f-DB8f.jpg"
+    }
+]
