@@ -8,7 +8,7 @@ const AllPackage = () => {
     const [packages, setPackages] = useState([]);
 
     useEffect(() => {
-        fetch('http://localhost:5000/all-booking')
+        fetch('https://quiet-hollows-33695.herokuapp.com/all-booking')
             .then(res => res.json())
             .then(data => setPackages(data))
     }, []);

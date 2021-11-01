@@ -9,7 +9,7 @@ const Order = ({ catchPackage }) => {
 
     const { register, handleSubmit, formState: { errors } } = useForm();
     const onSubmit = data => {
-        axios.post('http://localhost:5000/order', data)
+        axios.post('https://quiet-hollows-33695.herokuapp.com/order', data)
             .then(res => {
                 if (res.data.insertedId) {
                     alert('added successfully');

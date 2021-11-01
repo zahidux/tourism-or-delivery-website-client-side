@@ -11,7 +11,7 @@ const ManageOrders = () => {
     const email = user.email;
 
     useEffect(() => {
-        fetch('http://localhost:5000/users')
+        fetch('https://quiet-hollows-33695.herokuapp.com/users')
             .then(res => res.json())
             .then(data => setUsers(data))
     }, [])
@@ -28,7 +28,7 @@ const ManageOrders = () => {
     const handleDeleteUser = id => {
         const proceed = window.confirm('Are you sure, You want to Remove this package?')
         if (proceed) {
-            const url = `http://localhost:5000/users/${id}`;
+            const url = `https://quiet-hollows-33695.herokuapp.com/users/${id}`;
             fetch(url, {
                 method: 'DELETE',
             })

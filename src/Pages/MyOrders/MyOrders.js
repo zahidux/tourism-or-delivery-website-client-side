@@ -12,7 +12,7 @@ const MyOrders = () => {
     const email = user.email;
 
     useEffect(() => {
-        fetch('http://localhost:5000/users')
+        fetch('https://quiet-hollows-33695.herokuapp.com/users')
             .then(res => res.json())
             .then(data => setUsers(data))
     }, [])
