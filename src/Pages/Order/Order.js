@@ -31,7 +31,7 @@ const Order = ({ catchPackage }) => {
                                 <div className="order_package_content">
                                     <h1>{name}</h1>
                                     <h5>{description}</h5>
-                                    <h3>Price : <span>${price}</span></h3>
+                                    <h3>Price: <span>${price}</span></h3>
                                 </div>
                             </div>
                         </div>

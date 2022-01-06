@@ -18,7 +18,7 @@ const AllPackage = () => {
         <div id="all_package" className="all_package_area">
             <div className="container">
                 <div className="all_package_head">
-                    <h1> Best Packages <br /> Hotel Hooking </h1>
+                    <h1> Best Package <br /> Hotel Hooking </h1>
                 </div>
 
                 <div className="row g-4">
